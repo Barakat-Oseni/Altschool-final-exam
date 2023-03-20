@@ -1,6 +1,6 @@
 # AltSchool-of-Cloud-Engineering-3rd-Semester-Exam-Submission
 
-This repo contains all files and source codes for AltSchool of Cloud Engineering 3rd Semester Exam Submission
+This repo contains all files and source codes for AltSchool Cloud Engineering 3rd Semester Exam Submission
 
 ## Tools used and Required
 
